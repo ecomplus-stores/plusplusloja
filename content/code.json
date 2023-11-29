@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".ecom-credits {\ndisplay:none\n}",
   "html_head": "",
   "html_body": ""
 }
