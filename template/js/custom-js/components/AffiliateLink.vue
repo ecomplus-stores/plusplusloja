@@ -76,7 +76,7 @@ export default {
     setLink () {
       const customer = ecomPassport.getCustomer()
       this.link = `https://${window.location.host}/` +
-        `?coupon=CONVITEESPECIAL&referral=${customer._id}`
+        `?coupon=PLUS5&referral=${customer._id}`
     },
 
     share () {
